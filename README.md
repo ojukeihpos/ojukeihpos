@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
 
+I'm Sophie. I'm an software developer specializing in web development using TypeScript Next.js. 
+
+https://shokie.xyz
 <!--
 **ojukeihpos/ojukeihpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
