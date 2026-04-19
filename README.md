@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Sophie. I'm an software developer specializing in web development using TypeScript Next.js. 
+I'm Sophie. I'm a software developer. I build projects that entertain, assist, or are generally just useful tools to make people's lives a little more convenient.
 
 https://shokie.xyz
 <!--
